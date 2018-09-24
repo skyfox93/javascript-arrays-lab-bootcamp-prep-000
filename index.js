@@ -3,7 +3,7 @@ function destructivelyAppendKitten(name){kittens.push(name);}
 function destructivelyPrependKitten(name){kittens.unshift(name);}
 function destructivelyRemoveLastKitten(){kittens.pop();}
 function destructivelyRemoveFirstKitten(){kittens.shift()}
-function appendKitten(name){return [...kttens, name];}
-function prependKitten{return [name, ...kttens,];}
-function removeLastKitten{return array.slice(0,-1)}
-function removeFirstKitten({ return array.slice(1,array.length);}
+function appendKitten(name){return [...kittens, name];}
+function prependKitten(){return [name, ...kittens,];}
+function removeLastKitten(){return kittens.slice(0,-1)}
+function removeFirstKitten(){ return kittens.slice(1,kittens.length);}
