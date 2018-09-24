@@ -1,5 +1,5 @@
 // Add your functions and code here
-function destructivelyAppendKitten(array)
+function destructivelyAppendKitten(array){kittens.push()
 function destructivelyPrependKitten
 function destructivelyRemoveLastKitten
 function destructivelyRemoveFirstKitten
